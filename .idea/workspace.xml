@@ -58,7 +58,7 @@
                 <entry file="file://$PROJECT_DIR$/index.php">
                   <provider selected="true" editor-type-id="text-editor">
                     <state relative-caret-position="0">
-                      <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+                      <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="36" />
                       <folding />
                     </state>
                   </provider>
@@ -71,8 +71,8 @@
               <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/index.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="570">
-                      <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+                    <state relative-caret-position="60">
+                      <caret line="4" column="91" lean-forward="false" selection-start-line="4" selection-start-column="91" selection-end-line="4" selection-end-column="91" />
                       <folding />
                     </state>
                   </provider>
@@ -89,8 +89,8 @@
               <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/assets/javascripts/app.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="600">
-                      <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+                    <state relative-caret-position="570">
+                      <caret line="39" column="53" lean-forward="true" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
                       <folding />
                     </state>
                   </provider>
@@ -163,8 +163,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-34" />
-    <option name="y" value="23" />
+    <option name="x" value="-82" />
+    <option name="y" value="489" />
     <option name="width" value="1942" />
     <option name="height" value="813" />
   </component>
@@ -328,15 +328,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487644290958</updated>
-      <workItem from="1487644292194" duration="54312000" />
+      <workItem from="1487644292194" duration="54816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54312000" />
+    <option name="totallyTimeSpent" value="54816000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-34" y="23" width="1942" height="813" extended-state="0" />
+    <frame x="-82" y="489" width="1942" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08328995" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -442,14 +442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/javascripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/javascripts/Question.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -466,18 +458,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/javascripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="39" column="53" lean-forward="true" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="4" column="91" lean-forward="false" selection-start-line="4" selection-start-column="91" selection-end-line="4" selection-end-column="91" />
           <folding />
         </state>
       </provider>
