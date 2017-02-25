@@ -69,7 +69,7 @@ var t_minutes;
                 var gify = element.data("terms");
                 console.log("THIS IS THE SEARCH TERM "+ gify);
 
-                var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + gify + "&api_key=dc6zaTOxFJmzC&limit=10&rating=pg";
+                var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + gify + "&api_key=dc6zaTOxFJmzC&limit=10&rating=pg";
 
                 $.ajax({
                     url: queryURL,
